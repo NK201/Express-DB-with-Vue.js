@@ -1,3 +1,4 @@
+/* eslint-disable */
 /* jshint esversion: 6 */
 
 // The Vue build version to load with the `import` command
@@ -10,6 +11,7 @@ Vue.config.productionTip = false
 
 /* eslint-disable no-new */
 new Vue({
+    // eslint-disable-next-line indent
     el: '#app',
     router,
     components: {
